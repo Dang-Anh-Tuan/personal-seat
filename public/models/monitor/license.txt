@@ -1,0 +1,11 @@
+Model Information:
+* title:	LED Monitor
+* source:	https://sketchfab.com/3d-models/led-monitor-883a0162cf934610b6711db702d57c6e
+* author:	Chetta Creation (Arvin N V) (https://sketchfab.com/arvin.nv)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LED Monitor" (https://sketchfab.com/3d-models/led-monitor-883a0162cf934610b6711db702d57c6e) by Chetta Creation (Arvin N V) (https://sketchfab.com/arvin.nv) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

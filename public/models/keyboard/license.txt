@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mechanical keyboard
+* source:	https://sketchfab.com/3d-models/mechanical-keyboard-0161b6232216457aa8f4f3393960ec85
+* author:	virtualtimecapsule (https://sketchfab.com/virtualtimecapsule)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mechanical keyboard" (https://sketchfab.com/3d-models/mechanical-keyboard-0161b6232216457aa8f4f3393960ec85) by virtualtimecapsule (https://sketchfab.com/virtualtimecapsule) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
