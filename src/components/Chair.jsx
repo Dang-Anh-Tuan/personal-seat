@@ -1,7 +1,5 @@
-import { useGLTF } from "@react-three/drei";
-import React from "react";
+import LoadModel from "./LoadModel";
 
 export default function Chair(props) {
-  const gltf = useGLTF("./models/chair/chair.gltf");
-  return <primitive object={gltf.scene} />;
+  return <LoadModel url={"./models/chair/chair.gltf"} {...props}></LoadModel>;
 }
